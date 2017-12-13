@@ -1,0 +1,17 @@
+Title: Autour de la thèse
+Slug: bref3 
+title_page:  Autour de la thèse
+lang: fr
+
+
+
+Si être doctorant consiste essentiellement à travailler sur un thème de recherche et à apprendre le métier de chercheur, la thèse présente bien d’autres aspects. Tout d’abord, il s’agit __d’une expérience professionnelle__. A ce titre, le doctorant intègre un ou des laboratoire(s) et, parfois, une entreprise. Il participe pleinement à la vie de son lieu de travail (vie du laboratoire au quotidien, rangement, journée « détente » en équipe, …) et y rencontre d’autres doctorants, des chercheurs et des industriels avec qui il va travailler, échanger, partager et enrichir son expérience.  En tant que chercheur, le doctorant participe souvent à des conférences. Si celles-ci sont une très bonne occasion pour présenter ses résultats, ce sont également des opportunités pour rencontrer des experts du domaine et pouvoir échanger avec eux. Les conférences ayant lieu à l’étranger permettent de voyager et découvrir d’autres pays et cultures.
+
+Le doctorant fait souvent le choix de prendre des __missions d'enseignement__. Cela consiste à encadrer des travaux pratiques et des travaux dirigés en études supérieures. Le monitorat permet de découvrir le métier d’enseignant et d’aborder des cours du point de vue de l’enseignant et non plus de celui de l’étudiant, ce qui permet d’approfondir ses connaissances et d’aborder d’autres thématiques que celles de sa thèse. De façon plus personnelle, enseigner est aussi une façon de se préparer et de s’habituer à parler face à un public.   
+
+La thèse, c'est aussi __des évènements plus ludiques__. Suivant l’affinité entre doctorants ou grâce à des associations comme ÉCLAT, les doctorants se retrouvent pour faire [du sport](assoc2.html), aller boire un verre, etc … On peut également parler des pots de soutenance de thèse et autres évènements propres à chaque laboratoire mais qui font pleinement partie de la vie du doctorant. 
+
+Il y a également des façons différentes de penser sa thèse notamment à travers des __concours de vulgarisation scientifique__ comme « Danse ma thèse » mais le plus célèbre étant « Ma thèse en 180 secondes ». Le principe est simple : en trois minutes, le concurrent doit résumer sa thèse de façon humoristique à un public profane ou non. Très populaire, de tels concours sont organisés au niveau régional, national et même international ainsi que parfois au cours de colloques comme c’est le cas au moment du [CRIEC](ecl1.html). Il n’est pas rare qu’un doctorant de Centrale Lyon parvienne à se qualifier pour les phases finales de la compétition nationale !
+
+Ainsi, loin de l’image du travailleur solitaire, le doctorant a au cours de ses années de thèse de nombreuses occasions pour discuter, échanger et même s’amuser avec son travail de recherche.
+

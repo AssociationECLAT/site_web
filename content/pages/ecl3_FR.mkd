@@ -1,0 +1,22 @@
+Title: Sur le Campus
+Slug: ecl3 
+title_page:  Sur le Campus
+lang: fr
+
+
+
+
+Le campus de l’École Centrale de Lyon dispose de __nombreuses infrastructures de travail et de détente et d’une vie associative développée__. La [bibliothèque Michel Serres](http://bibli.ec-lyon.fr/) propose une documentation scientifique riche et constitue un cadre de travail calme et lumineux. Le campus comprend également un stade, des courts de tennis et un gymnase équipé d’une salle de musculation et d’un mur d’escalade. Vous pourrez prendre part à des clubs aux thématiques variées, et apprendre l’escrime, la salsa ou encore vous initier à la magie !
+
+Le foyer étudiant est un lieu de vie agréable où vous pouvez manger au restaurant universitaire tenu par le CROUS, boire un verre au bar, ou encore emprunter des jeux de société et faire une partie de billard.
+
+La vie sur le campus est également rythmée par différents évènements, comme le Challenge Centrale Lyon qui rassemble chaque année plus de 3000 étudiants.
+
+Si vous souhaitez loger sur le campus, différentes possibilités s’offrent à vous : vous pouvez vous laisser tenter par la convivialité de la résidence Comparat, avec ses cuisines communes où ont lieu des repas d’étage hebdomadaires, ou le confort et le calme des appartements de la résidence Adoma.
+
+A une dizaine de minute à pieds du centre commercial Écully Ouest, de nombreux commerces dont un Carrefour Planet sont faciles d’accès. Le centre d’Ecully est également facilement accessible, à pied ou en bus.
+
+Enfin, A 30mn en transports en commun de la place Bellecour, vous pourrez profiter de [la ville des traboules et de St Exupéry](http://www.lyon.fr/page/accueil.html) ! (lien vers site officiel de la ville de Lyon)
+
+Pour plus de détails, vous pouvez consulter le site institutionnel : [http://www.ec-lyon.fr/campus](http://www.ec-lyon.fr/campus)
+

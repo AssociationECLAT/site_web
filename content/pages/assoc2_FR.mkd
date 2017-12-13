@@ -1,0 +1,51 @@
+Title: Sport 
+Slug: assoc2
+title_page: Sport
+lang: fr
+
+
+## Créneaux sportifs
+
+En tant qu’étudiant et personnel de Centrale Lyon, vous avez des possibilités de faire du sport :
+
+* __Natation__ 
+	* Quand ? Le lundi (hors vacances scolaires), de 12h à 12h45.
+	* Où ? A la piscine d’Ecully.
+	* Des cours de perfectionnement sont organisés régulièrement.
+
+
+* __Futsal__
+	* Quand ? Le mercredi (hors vacances scolaires), de 11h à 12h15.
+	* Où ? Au gymnase de Centrale Lyon.
+
+
+* __Badminton__, __volley__ ou __tennis de table__ 
+	* Quand ? Le vendredi (hors vacances scolaires), de 11h à 12h30.
+	* Où ? Au gymnase de Centrale Lyon.
+
+
+* __Salle de musculation__
+	* Quand ? 
+		- Le lundi de 12h30 à 21h,
+		- Le mardi de 12h30 à 21h
+		- Le mercredi de 12h30 à 21h
+		- Le jeudi de 12h30 à 18h30
+		- Le vendredi de 11h30 à 15h30
+		- Notes : les horaires d’accès sont affichés sur place. Une formation à l'utilisation du matériel est fortement souhaitée ; ces formations sont organisées par les professeurs de sport de l'école. Le salle de musculation n'est pas ouverte durant les vacances scolaires.
+
+	* Où ? Au gymnase de Centrale Lyon.
+
+## Modalités d'inscription	
+
+* __Natation__: ce créneau est gérée par l’APECLY (association des personnels). Un mail d’informations est envoyé chaque rentrée scolaire ; les inscriptions se font en septembre. Compter un peu plus de 140€ pour l'année.
+
+
+* __Badminton, volley, tennis de table, musculation__ : il faut adhérer à l’USEECL, ce qui signifie deux choses : 
+	* fournir un __certificat de non contre-indication à la pratique sportive en **<u>compétition</u>**__ (même si vous ne comptez pas faire de compétition) ;
+	* payer votre cotisation pour l’année (27€) ou pour un semestre (15€).
+	* L’adhésion peut se faire en ligne, via l’application [Adeline](https://centrale.adeline.mobi/) ou en passant au BDS de Centrale Lyon (bâtiment M16, 1er étage, au dessus du foyer).
+
+
+### Pour tout problème ou question concernant le sport, merci de contacter :
+
+__Enora Denimal__, Doctorante LTDS,  enora.denimal@doctorant.ec-lyon.fr

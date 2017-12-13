@@ -1,0 +1,14 @@
+Title: Qui sommes nous?
+Slug: assoc1
+title_page: Qui sommes nous?
+lang: fr
+
+ECLAT (École Centrale de Lyon Association Troisième cycle) est l’association des doctorants inscrits et travaillant à l'École Centrale de Lyon ou dans les laboratoires rattachés à l'École Centrale de Lyon. Les activités de l'association sont répartis en trois axes :
+
+Le premier objectif d’ÉCLAT est d’amener les doctorants de Centrale Lyon à se rencontrer afin de partager leur expérience de thèse et de se détendre à travers des évènements ludiques : cafés, barbecues, sport, repas de Noël...ou scientifiques comme des visites de sites industriels (fabrique d'antimatière, centrale nucléaire en démantèlement) ou de laboratoires (CERN).
+
+ÉCLAT a aussi pour but de représenter les doctorants auprès de l'administration de l'École Centrale de Lyon ou de servir d'intermédiaire pour des demandes spécifiques. L'association est ainsi en contact avec la bibliothèque universitaire pour mettre en place de nouvelles formations à la demande des doctorants.
+
+Enfin l'association prend part à des évènements visant à valoriser le doctorat. Elle participe ainsi à l'organisation du CRIEC (Colloque de Recherche Inter-Écoles Centrale) et de la Journée Des Doctorants.
+
+L'adhésion à l'association est gratuite, tous les doctorants sont membres de l'association.

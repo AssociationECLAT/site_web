@@ -1,0 +1,16 @@
+Title: Premier Café ÉCLAT 
+Date: 2017-09-22 13:00
+Tags: Event
+Slug: cafe_eclat1
+Authors: Thomas
+Summary: Le tout premier café ÉCLAT de l'année !
+date_event: Mercredi 27 Sept
+time_event: 12h45
+lang:fr
+image_summary: coffee.jpg 
+
+
+<img src="images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
+
+Le __tout premier café Éclat__ est là! Rendez-vous à la salle de formation de la bibliothèque de l'école centrale (rez-de-chaussée) pour un moment de détente et de convivialité.
+

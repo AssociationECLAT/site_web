@@ -1,0 +1,17 @@
+Title: First ÉCLAT coffee 
+Date: 2017-09-22 13:00
+Tags: Event
+Slug: cafe_eclat1
+Authors: Thomas
+Summary: The first ECLAT coffee of this year!
+date_event: Mercredi 27 Sept
+time_event: 12h45
+lang:en
+image_summary: coffee.jpg 
+
+
+<img src="images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
+
+The __first ECLAT coffee__ is here! Let's meet in the formation room of the library of the ECL (1rst floor) to have a good time around a cup of coffe (or tee) and a few candies.
+
+

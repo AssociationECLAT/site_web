@@ -1,0 +1,15 @@
+Title: Le site web
+Slug: assoc5
+title_page: Le site web
+lang: fr
+
+__Comment est fait le site?__
+
+Le site est généré grâce à [Pelican](http://docs.getpelican.com/en/stable/). Pour moins de douleur dans la suite de l'article, l'ensemble des termes techniques seront condensés dans la phrase suivante: Pelican un générateur de site statique implémenté en [Python](https://fr.wikipedia.org/wiki/Python_(langage)) qui utilise des templates [Jinja](https://www.fullstackpython.com/jinja2.html) afin de construire automatiquement un site internet statique à partir de texte restructuré [Markdown](https://fr.wikipedia.org/wiki/Markdown).
+
+__Comment contribuer?__
+Toute contribution au site peut être faite directement en envoyant une simple page de texte contenant l'article en question. En conséquence, si vous avez des idées de contenu ou des élans de motivation, n'hésitez pas à participer à la construction du site.
+
+
+__Et le code, le vrai?__
+Pour les plus curieux, l'ensemble du site est disponible sur le github de l'association.

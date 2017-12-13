@@ -1,0 +1,22 @@
+Title: New website ÉCLAT 
+Date: 2017-11-20 12:00
+Tags: Event
+Slug: new_website2017
+Authors: Thomas
+Summary: The new ÉCLAT's website is online !
+date_event: 
+time_event: 
+lang:en
+image_summary: logo-eclat.png
+
+Le nouveau site d'ÉCLAT est en ligne! Au programme:
+
+The new ÉCLAT's website is online! A little review of new features:
+
+- The ÉCLAT news can be follow by RSS
+- New articles dedicated to help phd students during the thesis
+- A complet traduction of the precedent website
+
+Don't hesitate to tell us about what you want to see on this website and difficulties encourred during navigation. Our big webdesigner team will correct this as soon as possible.
+
+The ÉCLAT team
