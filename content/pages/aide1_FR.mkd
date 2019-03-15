@@ -3,7 +3,7 @@ Slug: aide1
 title_page: Templates Latex
 lang: fr
 
-Sur cette page, différents templates latex ajoutés par des doctorants de l'ECL sont disponibles. Si vous avez un template qu'il vous semble intéressant de partager, n'hésitez pas à nous l'envoyer pour que la page soit mise à jour.
+Sur cette page, différents templates latex ajoutés par des doctorants de l'ECL sont disponibles. Si vous avez un template qui vous semble intéressant de partager, n'hésitez pas à nous l'envoyer pour que la page soit mise à jour.
 
 
 __Templates de thèse__

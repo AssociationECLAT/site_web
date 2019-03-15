@@ -4,7 +4,7 @@ title_page: Guide du nouveau doctorant
 lang: fr
 author: Thomas
 
-Cette page à pour but centraliser les informations nécessaires au moment de commencer une thèse à l'école centrale. Pour commencer, différents sources d'informations existent déjà. Une liste (probablement non-exhaustive) parait donc de rigueur:
+Cette page a pour but de centraliser les informations nécessaires au moment de commencer une thèse à l'École Centrale. Tout d'abord, différentes sources d'informations existent déjà. Une liste (probablement non-exhaustive) paraît donc de rigueur:
 
 - [Le site de l'école centrale](http://www.ec-lyon.fr/) et plus particulièrement l'onglet [doctorat](http://www.ec-lyon.fr/recherche/doctorat)
 - Le site de votre école doctorale, à savoir:
@@ -20,21 +20,21 @@ Cette page à pour but centraliser les informations nécessaires au moment de co
 Une fois l'inscription à l'école doctorale faite, il reste possiblement un certain nombre de pocédures à effectuer.
 
 #### A l'ECL
-- Inscription administrative à l'ECL, avec notamment la récupération de la carte étudiante donnant l'accès aux batiments
-- Inscription au BDE en cas d'activité sportive
+- Inscription administrative à l'ECL, avec notamment la récupération de la carte étudiante donnant l'accès aux bâtiments
+- Inscription au BDS en cas d'activité sportive
 - Visite médicale obligatoire dans le cas d'un nouveau contrat de travail
-- Fiche de sécurité nouvel entrant à remplir. Pour cela, contacter le responsable sécurité du laboratoire d'accueuil
-- Formation sécurité des nouveaux entrants, dispensées par Carole Bernard. Ces formations ont lieux régulièrement et sont annoncées par mail.
+- Fiche de sécurité nouvel entrant à remplir. Pour cela, contacter le responsable sécurité du laboratoire d'accueil
+- Formation sécurité des nouveaux entrants, dispensée par Carole Bernard. Ces formations ont lieux régulièrement et sont annoncées par mail.
 
 #### Ailleurs
 - Inscription à la CPAM pour l'obtention ou la mise à jour de votre couverture maladie (et de votre carte vitale). Pour cela, il vous faut votre contrat de travail et vous devez vous rendre sur [le site de la CPAM](https://www.ameli.fr/) et plus précisement remplir votre [demande d'ouverture de droits à l'assurance maladie ](https://www.ameli.fr/sites/default/files/formulaires/168/s1106_puma_demande_od_remp.pdf) et la porter dans une agence avec les pièces justificatives listées.
 
 
-- Souscription à une complémentaire santé (mutuel) pour permettre (entre autre) un remboursement des lunettes/ hospitalisation / trucs chères. 
-- Abonnement aux transports en communs [TCL](http://www.tcl.fr/). Votre attestation étudiante (obtenu après inscription à l'ECL) est nécessaire pour diviser par deux le coût annuel des transports. Enfin, la moitier du montant restant est remboursé par l'école centrale. C'est actuellement Lisa Laimene en charge des ces remboursements pour les doctorants.
+- Souscription à une complémentaire santé (mutuelle) pour permettre (entre autres) un remboursement des lunettes/ hospitalisation / trucs chères. 
+- Abonnement aux transports en commun [TCL](http://www.tcl.fr/). Votre attestation étudiante (obtenue après inscription à l'ECL) est nécessaire pour diviser par deux le coût annuel des transports. Enfin, la moitié du montant restant est remboursée par l'École Centrale. C'est actuellement Lisa Laimene en charge de ces remboursements pour les doctorants employés par l'ECL.
 - Pour ceux n'en ayant pas, l'ouverture d'un compte banquaire est obligatoire pour pouvoir recevoir la paie.
 - Souscription à un abonnement de téléphonie et d'internet
-- Autorisation de séjour pour les doctorants étrangers hors UE. A prendre apres le visa + visite médicale
+- Autorisation de séjour pour les doctorants étrangers hors UE. A prendre après le visa + visite médicale
 - Imposition: à gérer en temps utile
 
 

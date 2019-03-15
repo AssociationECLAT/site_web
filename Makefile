@@ -8,9 +8,9 @@ OUTPUTDIR=$(BASEDIR)/www
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-FTP_HOST=localhost
-FTP_USER=
-FTP_TARGET_DIR=/
+FTP_HOST=jumelles.ec-lyon.fr
+FTP_USER=wbeclat
+FTP_TARGET_DIR=/www
 
 SSH_HOST=localhost
 SSH_PORT=22
@@ -99,6 +99,8 @@ stopserver:
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	cp -R www/images www/en
+
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
@@ -110,6 +112,8 @@ dropbox_upload: publish
 	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)
 
 ftp_upload: publish
+	set ftp:ss1-allow true
+	set ss1:verify-certificate no
 	lftp ftp://$(FTP_USER)@$(FTP_HOST) -e "mirror -R $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
 
 s3_upload: publish

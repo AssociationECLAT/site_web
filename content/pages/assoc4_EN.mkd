@@ -6,4 +6,4 @@ lang: en
 To contact ECLAT, please contact us at one of the following mail adress:
 
 - President: Thomas Lechat-bat.J12 , thomas.lechat@ec-lyon.fr
-- Sport supervisor: Enora Denimam-LTDS, enora.denimal@ec-lyon.fr
+- Sport supervisor
