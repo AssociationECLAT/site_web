@@ -1,0 +1,17 @@
+Title:  Le dernier café ÉCLAT
+Date: 2017-12-13 13:00
+Tags: Event
+Slug: cafe_eclat2
+Authors: Thomas
+Summary: Le dernier café ÉCLAT de l'année!
+date_event: Mercredi 13 Dec
+time_event: 13h00
+lang: fr
+image_summary: coffee.jpg 
+
+
+<img src="images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
+
+Le __dernier café ECLAT__ de l'année est arrivé! Rendez-vous dans la salle de formation de la bibliothèque de l'école centrale (en face de l'entrée) pour un petit café (ou thé) et quelques friandises pour célébrer noël et la fin de l'année.
+
+

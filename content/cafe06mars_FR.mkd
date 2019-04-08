@@ -1,0 +1,18 @@
+Title:  Café ÉCLAT
+Date: 2018-03-06 13:00
+Tags: Event
+Slug: cafe_eclat4
+Authors: Thomas
+Summary: Café ÉCLAT de Mars!
+date_event: Mercredi 06 Mars
+time_event: 13h00
+lang: fr
+image_summary: coffee.jpg 
+
+
+<img src="images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
+
+Le __café ECLAT__  de Mars est arrivé! Rendez-vous dans la salle de formation de la bibliothèque de l'école centrale (en face de l'entrée) pour un petit café (ou thé) et quelques friandises à partager.
+
+Le bureau d'ÉCLAT
+

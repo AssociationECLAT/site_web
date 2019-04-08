@@ -1,0 +1,17 @@
+Title:  Last ÉCLAT coffee 
+Date: 2017-12-13 13:00
+Tags: Event
+Slug: cafe_eclat2
+Authors: Thomas
+Summary: The Last ECLAT coffee of this year!
+date_event: Wednesday 13 Dec
+time_event: 13h00
+lang:en
+image_summary: coffee.jpg 
+
+
+<img src="images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
+
+The __Last ECLAT coffee__ is here! Let's meet in the formation room of the library of the ECL (1rst floor) to have a good time around a cup of coffe (or tee) and a few candies to celebrate chrismas and the end of the year.
+
+

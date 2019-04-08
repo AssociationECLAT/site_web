@@ -1,0 +1,15 @@
+Title:  First ECLAT coffee
+Date: 2018-01-26 13:00
+Tags: Event
+Slug: cafe_eclat3
+Authors: Thomas
+Summary: First ECLAT coffee of the year!
+date_event: Friday 26th January
+time_event: 1 PM
+lang: en
+image_summary: coffee.jpg 
+
+
+<img src="images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
+
+The __Last ECLAT coffee__ is here! Let's meet in the formation room of the library of the ECL (1rst floor) to have a good time around a cup of coffe (or tee) and a piece of cake to celebrate the new year.

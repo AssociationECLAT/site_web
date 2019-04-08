@@ -1,0 +1,16 @@
+Title: Sortie bar de Noël
+Date: 2017-12-21 21:00
+Tags: Event
+Slug: biere_noel
+Authors: Thomas
+Summary: Fin d'année difficile? Venez profiter d'une petite bière entre doctorants dans un bar du centre ville !
+date_event: Jeudi 21 Dec
+time_event: 21h00
+lang: fr
+image_summary: beer.jpg 
+
+
+<img src="images/beer.jpg" style="width:400px;" alt="ERROR IMAGE">
+
+Envie d'un petit moment de détente pour bien commencer les vacances de noël qui s'annoncent d'ores et déjà trop grasses, sucrées et salées? Venez prendre une bière avec nous au __Broc café__ ce jeudi à partir de 21h!
+

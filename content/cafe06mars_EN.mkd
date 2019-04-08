@@ -1,0 +1,20 @@
+Title:   ÉCLAT Cofee
+Date: 2018-03-06 13:00
+Tags: Event
+Slug: cafe_eclat4
+Authors: Thomas
+Summary: ÉCLAT Coffee of March!
+date_event: Wednesday 06 March
+time_event: 1 PM
+lang: en
+image_summary: coffee.jpg 
+
+
+<img src="images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
+
+
+The ECLAT coffee of March is arrived! Let's meet in formation room of library of ECL to take a little coffee (or tee) and a piece of cake.
+
+The ECLAT administration
+
+

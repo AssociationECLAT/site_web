@@ -1,0 +1,15 @@
+Title:  Chrismas Beer
+Date: 2017-12-21 21:00
+Tags: Event
+Slug: biere_noel
+Authors: Thomas
+Summary: Hard end of year? Let's drink a small beer with other Phd students in a bar near Bellecour !
+date_event: Friday 21 Dec
+time_event: 21h00
+lang: en
+image_summary: beer.jpg 
+
+
+<img src="images/beer.jpg" style="width:400px;" alt="ERROR IMAGE">
+
+Fancy a relaxing time before the Christmas break? Come have a beer at __Broc Café__ this thursday at 9pm!

@@ -1,0 +1,15 @@
+Title: Pub
+Date: 2018-07-04 20:00
+Tags: Event
+Slug: biere04072018
+Authors: Thomas
+Summary: Come take a small beer in the center with other doctorants!
+date_event: Wednesday 04 July
+time_event: 20h00
+lang: en
+image_summary: beer.jpg 
+
+
+<img src="images/beer.jpg" style="width:400px;" alt="ERROR IMAGE">
+
+Fancy a relaxing time before the summer break? Come have a beer at Broc Café this wednesday (04/07) at 8pm (near Bellecour)!

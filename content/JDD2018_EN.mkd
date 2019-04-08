@@ -1,0 +1,20 @@
+Title:  Phd Student Day (JDD)
+Date: 2018-03-15 
+Tags: Event
+Slug: JDD2018
+Authors: Thomas
+Summary: Phd Student Day of the ECL
+date_event: Thursday 15th Mars
+time_event: The all day
+lang: en
+image_summary: emailing-JDD-2018.jpg 
+
+
+<img src="images/emailing-JDD-2018.jpg" style="width:400px;" alt="ERROR IMAGE">
+
+
+__The summary will be online as soon as possible__
+
+The traditionnal PhD Student Day (JDD) of ECL will take place on the Thursday 15th March!
+
+Summury: [programme](images/programme_JDD2018.pdf)

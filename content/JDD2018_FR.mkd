@@ -1,0 +1,22 @@
+Title:  Journée Des Doctorants (JDD)
+Date: 2018-03-15 
+Tags: Event
+Slug: JDD2018
+Authors: Thomas
+Summary: Journée Des Doctorants de l'École Centrale
+date_event: Jeudi 15 Mars
+time_event: Toute la journée
+lang: fr
+image_summary: emailing-JDD-2018.jpg 
+
+
+<img src="images/emailing-JDD-2018.jpg" style="width:400px;" alt="ERROR IMAGE">
+
+
+__Le Programme sera mis en ligne dès que possible__
+
+La traditionnelle Journée Des Doctorants de l'ECL se déroulera cette année le Jeudi 15 Mars!
+
+Le programme: [programme](images/programme_JDD2018.pdf)
+
+

@@ -1,0 +1,15 @@
+Title:  ECLAT coffee
+Date: 2018-06-04 13:00
+Tags: Event
+Slug: cafe_eclat5
+Authors: Thomas
+Summary:  ECLAT coffee of June !
+date_event: Monday 06th June
+time_event: 1 PM
+lang: en
+image_summary: coffee.jpg 
+
+
+<img src="images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
+
+The __ECLAT coffee__ of June is here! Let's meet in the formation room of the library of the ECL (1rst floor) to have a good time around a cup of coffe (or tee) and a piece of cake.
