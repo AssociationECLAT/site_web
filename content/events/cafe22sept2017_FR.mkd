@@ -10,7 +10,7 @@ lang:en
 image_summary: coffee.jpg 
 
 
-<img src="/images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
+<img src="/images/coffee.jpg" style="width:400px;" alt="Inviting (though obviously stock and watermarked) coffee cup, with a smile drawn the foam">
 
 The __first ECLAT coffee__ is here! Let's meet in the formation room of the library of the ECL (1rst floor) to have a good time around a cup of coffe (or tee) and a few candies.
 
