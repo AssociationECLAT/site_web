@@ -2,16 +2,15 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'me'
-SITENAME = u'Site ECLAT'
-
+AUTHOR = 'Association ÉCLAT'
+SITENAME = "ÉCLAT -- Association des doctorants de l'École Centrale de Lyon"
 SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = u'fr'
+DEFAULT_LANG = 'fr'
 
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = ['i18n_subsites']
@@ -70,8 +69,7 @@ DEFAULT_PAGINATION = 10
 
 
 THEME = './chameleon'
-BS3_THEME = 'http://bootswatch.com/simplex/bootstrap.min.css'
-
+BS3_THEME = 'https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css'
 
 
 
@@ -98,5 +96,9 @@ MENUITEMS=[
 ('Guide du nouveau doctorant','/pages/aide2.html'),
 ])]
 
-LOAD_CONTENT_CACHE = False
-OUTPUT_PATH = 'www/'
+#LOAD_CONTENT_CACHE = False
+#OUTPUT_PATH = 'www/'
+
+
+# Uncomment following line if you want document-relative URLs when developing
+#RELATIVE_URLS = True
