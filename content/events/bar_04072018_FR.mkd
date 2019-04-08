@@ -10,7 +10,7 @@ lang: fr
 image_summary: beer.jpg 
 
 
-<img src="images/beer.jpg" style="width:400px;" alt="ERROR IMAGE">
+<img src="/images/beer.jpg" style="width:400px;" alt="ERROR IMAGE">
 
 Venez donc profiter d'une petite bière pour tranquillement profiter du début de l'été!
 Rendez-vous donc à 20h au __Broc Café__ (près de la place Bellecour).

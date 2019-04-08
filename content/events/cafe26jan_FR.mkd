@@ -10,7 +10,7 @@ lang: fr
 image_summary: coffee.jpg 
 
 
-<img src="images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
+<img src="/images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
 
 Le __premier café ECLAT__ de l'année est arrivé! Rendez-vous dans la salle de formation de la bibliothèque de l'école centrale (en face de l'entrée) pour un petit café (ou thé) et une part de galette pour célébrer la nouvelle année!
 

@@ -10,7 +10,7 @@ lang: en
 image_summary: coffee.jpg 
 
 
-<img src="images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
+<img src="/images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
 
 
 The ECLAT coffee of March is arrived! Let's meet in formation room of library of ECL to take a little coffee (or tee) and a piece of cake.

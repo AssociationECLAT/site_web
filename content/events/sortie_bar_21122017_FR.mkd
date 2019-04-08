@@ -10,7 +10,7 @@ lang: fr
 image_summary: beer.jpg 
 
 
-<img src="images/beer.jpg" style="width:400px;" alt="ERROR IMAGE">
+<img src="/images/beer.jpg" style="width:400px;" alt="ERROR IMAGE">
 
 Envie d'un petit moment de détente pour bien commencer les vacances de noël qui s'annoncent d'ores et déjà trop grasses, sucrées et salées? Venez prendre une bière avec nous au __Broc café__ ce jeudi à partir de 21h!
 

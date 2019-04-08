@@ -10,7 +10,7 @@ lang: fr
 image_summary: coffee.jpg 
 
 
-<img src="images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
+<img src="/images/coffee.jpg" style="width:400px;" alt="ERROR IMAGE">
 
 Le __dernier café ECLAT__ de l'année est arrivé! Rendez-vous dans la salle de formation de la bibliothèque de l'école centrale (en face de l'entrée) pour un petit café (ou thé) et quelques friandises pour célébrer noël et la fin de l'année.
 

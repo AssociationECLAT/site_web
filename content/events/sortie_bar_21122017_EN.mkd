@@ -10,6 +10,6 @@ lang: en
 image_summary: beer.jpg 
 
 
-<img src="images/beer.jpg" style="width:400px;" alt="ERROR IMAGE">
+<img src="/images/beer.jpg" style="width:400px;" alt="ERROR IMAGE">
 
 Fancy a relaxing time before the Christmas break? Come have a beer at __Broc Café__ this thursday at 9pm!
