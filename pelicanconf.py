@@ -13,6 +13,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
 
+PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = ['i18n_subsites']
 I18N_SUBSITES = {
 'en' :{
