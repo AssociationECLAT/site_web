@@ -4,7 +4,10 @@ title_page: Nous contacter
 lang: fr
 
 
-Pour contacter l'association ECLAT, vous pouvez utiliser une des adresses mail suivantes:
+Pour contacter l'association ÉCLAT, vous pouvez envoyer un mail à l'une des membres suivants:
 
-- Président: Thomas Lechat-bat.J12 , thomas.lechat@ec-lyon.fr
-- Responsable sport
+- Président: **Mayeul Cantan**, _bat. F7_
+- Vice-président: **Nicolas Ratto**, _bat. E6_
+- Responsable sport: **Nathanaël Savalle**
+
+Nos adresses mail sont toutes sous la forme `nom.prenom@ec-lyon.fr`.

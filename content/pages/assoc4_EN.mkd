@@ -3,7 +3,10 @@ Slug: assoc4
 title_page: Contact us
 lang: en
 
-To contact ECLAT, please contact us at one of the following mail adress:
+To contact ÉCLAT, please write an e-mail to one of the following members:
 
-- President: Thomas Lechat-bat.J12 , thomas.lechat@ec-lyon.fr
-- Sport supervisor
+- President: **Mayeul Cantan**, _building F7_
+- Vice-president: **Nicolas Ratto**, _building E6_
+- Sport supervisor: **Nathanaël Savalle**
+
+Our e-mail addresses are systematically written as: `firstname.lastname@ec-lyon.fr`.
