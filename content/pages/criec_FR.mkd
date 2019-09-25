@@ -1,9 +1,7 @@
-Title: CRIEC 
-Slug: ecl1 
+Title: CRIEC
+Slug: criec
 title_page:  CRIEC
 lang: fr
-
-
 
 Chaque année depuis plus de 20 ans, les doctorants des écoles du groupe Centrale 
 se retrouvent pour un __Colloque de Recherche Inter Ecoles Centrale (CRIEC)__.  
@@ -29,5 +27,4 @@ les participants. Pour convaincre les plus réticents, sachez que l’ensemble d
 frais (logement, déplacement, …) sont pris en charge par le CRIEC; et les frais 
 de transport pour s’y rendre par la Direction de la Recherche.
 
-L'École Centrale de Lyon héberge le CRIEC de 2019, retrouvez les informations 
-sur la [page dédiée]({filename}../pages/criec2019_FR.mkd).
+L'École Centrale héberge le CRIEC de 2019, retrouvez les informations sur la [page dédiée]({filename}../pages/criec2019_FR.mkd).

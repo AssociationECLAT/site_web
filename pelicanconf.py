@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Association ÉCLAT'
 SITENAME = "ÉCLAT -- Association des doctorants de l'École Centrale de Lyon"
-SITEURL = ''
+SITEURL = 'https://eclat.ec-lyon.fr'
 
 PATH = 'content'
 
@@ -16,7 +16,7 @@ PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = ['i18n_subsites']
 I18N_SUBSITES = {
 'en' :{
-	'SITENAME':  'Site ECLAT, en',
+	'SITENAME':  'ÉCLAT -- École Centrale de Lyon PhD students assoctiation',
 
 	'MENUITEMS': [
 	('The association',[
@@ -39,21 +39,25 @@ I18N_SUBSITES = {
 	('PHD Help',[
 	('Latex Templates','/pages/aide1.html'),
 	('New Phd student guide','/pages/aide2.html'),
-	])]
+	])],
+
+        'LANG_ATOM_FEED_PATH': 'en/feeds/articles.atom.xml'
 	}
 }
 
 main_lang = 'fr'
 
 # Feed generation is usually not desired when developing
+#FEED_ALL_ATOM = 'feeds/all.atom.xml'
+LANG_ATOM_FEED_PATH = 'feeds/articles.atom.xml'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = LANG_ATOM_FEED_PATH
+# TODO: allow generating the -en feed, and disable the above one
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-STATIC_PATHS = ['images']
-
+STATIC_PATHS = ['images','static']
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),

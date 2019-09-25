@@ -1,9 +1,13 @@
-Title: CRIEC 
-Slug: ecl1 
-title_page:  CRIEC
+Title: CRIEC 2019
+Slug: criec2019
+title_page:  CRIEC 2019
 lang: fr
 
+*[English version here]({filename}../pages/criec2019_EN.mkd)*
 
+## Qu'est-ce que le CRIEC ?
+
+Pour paraphaser notre [page dédiée]({filename}../pages/ecl1_FR.mkd) :
 
 Chaque année depuis plus de 20 ans, les doctorants des écoles du groupe Centrale 
 se retrouvent pour un __Colloque de Recherche Inter Ecoles Centrale (CRIEC)__.  
@@ -29,5 +33,21 @@ les participants. Pour convaincre les plus réticents, sachez que l’ensemble d
 frais (logement, déplacement, …) sont pris en charge par le CRIEC; et les frais 
 de transport pour s’y rendre par la Direction de la Recherche.
 
-L'École Centrale de Lyon héberge le CRIEC de 2019, retrouvez les informations 
-sur la [page dédiée]({filename}../pages/criec2019_FR.mkd).
+## Fantastique ! Comment puis-je participer ?
+
+Cette année, le CRIEC se déroulera **du lundi 17 juin au jeudi 20 juin**.
+
+Veuillez répondre au [questionnaire envoyé par 
+courriel](https://sondages.ec-lyon.fr/index.php/323752?lang=fr) **dès que 
+possible** pour nous rejoindre.
+
+L'accueil se fera le 17 juin dès midi au rez-de-chaussée du [bâtiment 
+W1](https://www.openstreetmap.org/way/25311812).
+
+## Quelles activités sont prévues pour cette 25ème édition ? 
+
+Un barbecue, des conférences, une visite de Lyon, un restaurant et d'autres 
+activités sont prévues. Vous pouvez également [télécharger l'emploi du temps 
+complet]({static}/static/Programme CRIEC 2019.pdf).
+
+

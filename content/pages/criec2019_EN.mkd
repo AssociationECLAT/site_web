@@ -1,8 +1,13 @@
-Title: CRIEC 
-Slug: ecl1 
-title_page:  CRIEC
+Title: CRIEC 2019
+Slug: criec2019
+title_page:  CRIEC 2019
 lang: en
 
+*[Version française ici]({filename}../pages/criec2019_FR.mkd)*
+
+## What is CRIEC ?
+
+To paraphrase our [dedicated page]({filename}../pages/ecl1_EN.mkd):
 
 Each year, for more than 20 years, PhD students from the Centrale schools gather 
 for a __Colloque de Recherche Inter Ecoles Centrale (CRIEC — *Cross-Centrale 
@@ -18,8 +23,8 @@ partake in a variety of interesting events (visits, barbecues, "[Ma thèse en
 Minute Thesis* — competition, etc).
 
 Organized by PhD students for PhD students, CRIEC is often a first symposium 
-experience to showcase one's work in a relaxed environment, compared to a giving 
-a conference before domain experts.
+experience that makes it possible to showcase one's work in a relaxed 
+environment, compared to giving a conference in front of an expert audience.
 It also is a good networking opportunity.
 As for the CRIEC organizing team, it is a first opportunity to prepare and host 
 a scientific event.
@@ -29,5 +34,21 @@ If you are still hesitating, please note that all expenses (housing, transport,
 etc.) are paid for by the organizers, and the travel expenses to get by the 
 *Direction de la Recherche*.
 
-Centrale Lyon hosts the CRIEC in 2019, find more information on the [dedicated 
-page]({filename}../pages/criec2019_EN.mkd).
+
+## Great, how do I participate ?
+
+This year (2019), CRIEC will take place **from Monday, June 17th to Thursday, 
+June 20th**.
+
+Please answer the [form we sent you by 
+e-mail](https://sondages.ec-lyon.fr/index.php/323752?lang=en) **as soon as 
+possible** to join us.
+
+Attendees will be welcomed the 17th, starting at noon, on the ground floor of 
+the [W1 building](https://www.openstreetmap.org/way/25311812).
+
+## What activities can I expect for this 25th edition?
+
+A barbecue, conferences, Lyon visit, restaurant trip and conferences are 
+planned. You can [download the full 
+agenda]({static}/static/Programme CRIEC 2019.pdf).

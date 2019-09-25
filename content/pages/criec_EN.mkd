@@ -1,6 +1,6 @@
-Title: CRIEC 
-Slug: ecl1 
-title_page:  CRIEC
+Title: CRIEC 2019
+Slug: criec
+title_page:  CRIEC 2019
 lang: en
 
 
@@ -31,3 +31,4 @@ etc.) are paid for by the organizers, and the travel expenses to get by the
 
 Centrale Lyon hosts the CRIEC in 2019, find more information on the [dedicated 
 page]({filename}../pages/criec2019_EN.mkd).
+
