@@ -61,6 +61,9 @@ div .Flux_RSS {
 	border-radius: 10px;
 }
 
+.panel-primary img {
+	border-radius: 15px;
+}
 
 .label-primary {
 	background-color: #d89e19; /* Override bootstrap config with Eclat Orange */
