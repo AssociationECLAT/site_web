@@ -77,11 +77,11 @@
 {% macro navbar(link) %}
   <nav id="navbar" class="navbar navbar-default" role="navigation">
 <div style="padding: 10px" >
-       <a href="{{MAIN_SITEURL}}/">
-       <img src='/theme/images/button_FR.png' alt='ERREUR'  style="float:right">
+       <a href="/{{ output_file }}">
+       <img src='/theme/images/button_FR.png' alt='Site FR'  style="float:right">
        </a>
-       <a href="{{MAIN_SITEURL}}/en">
-       <img src='/theme/images/button_EN.png' alt='ERREUR'   style="float:right" >
+       <a href="/en/{{output_file}}">
+       <img src='/theme/images/button_EN.png' alt='Site EN'   style="float:right" >
        </a>
 </div>
 	<hr>
