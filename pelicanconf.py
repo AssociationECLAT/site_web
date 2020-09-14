@@ -27,7 +27,7 @@ I18N_SUBSITES = {
 	('The website','/pages/assoc5.html'),
 	]),
 	('Doctoral thesis in short',[
-	('What is being a doctorate?','/pages/bref1.html' ),
+	('What is being a PhD student like?','/pages/bref1.html' ),
 	('Accounts','/pages/bref2.html' ),
 	('Around the PhD','/pages/bref3.html' ),
 	]),

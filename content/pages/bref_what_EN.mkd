@@ -1,10 +1,7 @@
-Title: Qu'est ce qu'être doctorant? 
+Title: What is being a PhD student like?
 Slug: bref1 
-title_page:  Qu'est ce qu'être doctorant?
+title_page: What does being a PhD student entails?
 lang: en
-
-
-
 
 
 A PhD student can be seen as a "researcher-trainee" working for three years on a research topic, a PhD dissertation, in order to obtain the doctor grade, which is __the highest university diploma recognized all around the world__.

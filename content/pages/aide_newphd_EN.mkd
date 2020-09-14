@@ -1,0 +1,44 @@
+Title: New PhD student guide
+Slug: aide2
+title_page: New PhD student guide
+lang: en
+author: Thomas
+
+
+On this page, we try to centralise all information to help new PhD student to start thesis at ECL. First, there are already some stuff that exist. We'll try to summarize here:
+
+- [The ECL website](http://www.ec-lyon.fr/) and more precisely [doctorat tab](http://www.ec-lyon.fr/recherche/doctorat)
+- The website of your phd school:
+	- [EEA](https://edeea.universite-lyon.fr/) 
+	- [EDML](http://ed34.universite-lyon.fr/)
+	- [INFOMATHS](http://edinfomaths.universite-lyon.fr/)
+	- [MEGA](http://edmega.universite-lyon.fr/)
+	- [SIS](http://edsis.universite-lyon.fr/)
+- [The phd section](http://www.universite-lyon.fr/doctorat/doctorat-313247.kjsp) of the website of Lyon University, where there is [The phd guide](http://www.universite-lyon.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=1251709172900&ID_FICHE=164932)
+
+
+## Administrative stuff:
+After the registration to your PhD school, there is possibly some stuff remaining.
+You'll probably don't need to do all of this.
+
+#### At ECL
+- Administrative inscription to ECL, necessary to receive your student card and have access to buildings 
+- Inscription to the BDE if you want to do sport
+- Compulsory medical visit: you'll receive an email with a convocation
+- "Fiche de sécurité nouvel entrant" to complete. You need to contact the security supervisor of your laboratory to complete a survey about possible risks in your thesis. 
+- There is also a mandatory formation on general security at ECL done by Carole Bernard. They are announced by email periodically. 
+
+#### Elsewhere
+- CPAM inscription to obtain or update your health coverage (and have your vital card). To achieve this, you need your work contract and go on [the CPAM website](https://www.ameli.fr/) and more precisely complete [demande d'ouverture de droits à l'assurance maladie ](https://www.ameli.fr/sites/default/files/formulaires/168/s1106_puma_demande_od_remp.pdf) and bring it to an agency with all others papers asked.
+
+
+- Subscribe to supplemental health insurance (mutuel) to be refunded in hospitalization case. 
+- Subscription to public transport [TCL](http://www.tcl.fr/). Your student attestation (obtened after your inscription to ECL) is necessary to only pay half of the price of transport. Finally, half of the remaining part is refunded by ECL. Lisa Laimene is actually in charge of this refunding.
+- A French bank account (or at least european?) is needed to receive your paycheck.
+- Subscribe to phone or/and internet
+- Get your "Autorisation de séjour" for PhD student coming from out of UE. 
+
+
+
+
+

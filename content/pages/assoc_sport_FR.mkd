@@ -1,7 +1,7 @@
 Title: Sport 
 Slug: assoc2
 title_page: Sport
-lang: en
+lang: fr
 
 
 ## Créneaux sportifs
@@ -10,7 +10,7 @@ En tant qu’étudiant et personnel de Centrale Lyon, vous avez des possibilité
 
 * __Natation__ 
 	* Quand ? Le lundi (hors vacances scolaires), de 12h à 12h45.
-	* Où ? A la piscine d’Ecully.
+	* Où ? A la [piscine d’Ecully](https://www.openstreetmap.org/way/118378459).
 	* Des cours de perfectionnement sont organisés régulièrement.
 
 
@@ -47,3 +47,4 @@ En tant qu’étudiant et personnel de Centrale Lyon, vous avez des possibilité
 
 
 ### Pour tout problème ou question concernant le sport, merci de contacter le bureau d'ÉCLAT.
+

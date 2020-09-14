@@ -1,0 +1,48 @@
+Title: Sport 
+Slug: assoc2
+title_page: Sport
+lang: en
+
+
+## Sport Timeslots
+
+As a student and member of Centrale Lyon Personnel, you have multiple opportunities to practice sport:
+
+* __Swimming__ 
+	* When ? On Mondays (excluding school holidays), from 12 am to 12:45 am.
+	* Where? At the [Ecully Swimming pool](https://www.openstreetmap.org/way/118378459).
+	* Perfecting courses are organized on a regular basis.
+
+
+* __Futsal__
+	* When ? On Wednesdays (excluding school holidays), from 11 am to 12:15 am.
+	* Where ? At Centrale Lyon's gym.
+
+
+* __Badminton__, __volley__ ou __table tennis__ 
+	* When ? On Friday (excluding school holidays), from 11 am to 12:30am.
+	* Where ? At Centrale Lyon's gym.
+
+
+* __Weights room__
+	* When ? 
+		- On Monday from 12:30 to 21h,
+		- On Tuesdays from 12:30 to 21h
+		- On Wednesdays from 12:30 to 21h
+		- On Thursdays from 12:30 to 18:30
+		- On Fridays from 11:30 to 15:30
+		- Note that timetables are displayed at the place. Undergoing a training is highly recommended before using the weights. Such trainings are organized by centrale sports teachers. The weights room is closed during school holidays.
+
+	* Where ? At Centrale Lyon's gym.
+
+## Registering
+
+* __Swimming__: That timeslot is managed by l’APECLY (personnels association). An e-mail with more information is sent at every start of the school year (september). Registrations are done in september, expect a bit more than 140€ for the year.
+
+
+* __Badminton, volley, table tennis , musculation__ : You need to join USEECL, which means two things: 
+	* bring a "__certificat de non contre-indication à la pratique sportive en **<u>compétition</u>**__" whereby a doctor certifies that you are not unfit to practice sports in a competitive setting ( even if you do not intend to participate to competitions;
+	* pay the registration fee for a year (30€) or a semester (15€).
+	* registration can be done online with the [Adeline app](https://centrale.adeline.mobi/) or by going to the Centrale Lyon BDS ("bureau des sports) (M16 building, 1st floor, above the student "foyer").
+
+### For every issue or question regarding sport, please contact the ÉCLAT team
