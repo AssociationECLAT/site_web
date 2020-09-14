@@ -8,8 +8,7 @@ body {
 	font-family; Roboto, sans-serif;
 	color: #444;
 	font-size: 18px; 
-	background: url(../images/fond31.jpg) center top no-repeat;
-	background-color: #859129;
+	background-color: #711b1e; /* not ECL red but close*/
 }
 
 div#page-content > p {
@@ -41,7 +40,7 @@ h1 {
 }
 
 div .sidebar {
-	background-color: rgba(255,255,255,.3);;
+	/*background-color: rgba(255,255,255,.3);; */
 	margin-left: 1em;
 	padding: 1em;
 }
@@ -56,7 +55,7 @@ div .Flux_RSS {
 
 
 div .col-md-8 {
-	background-color: rgba(255,255,255,.3);
+	/*background-color: rgba(255,255,255,.3); */
 }
 
 div .panel-group {
@@ -66,7 +65,7 @@ div .panel-group {
 div .page-header{
 	text-shadow: 1px 1px 1px rgba(0,0,0,.7);
 	text-color: #ffffff;
-	background-color: #397fc5;
+	background-color: #d89e19; /* ECLAT Orange */
 	border-radius:10px;
 	text-align: center;
 	height: 100px;
@@ -74,7 +73,7 @@ div .page-header{
 }
 
 .panel-primary > .panel-heading {
-	background-color: #397fc5;
+	background-color: #d89e19;
 }
 
 /* Centrage du titre */
@@ -332,8 +331,13 @@ img {
 .navbar-default .navbar-text {
   color: #ffffff;
 }
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	background-color: #711b1ee0; /* override bootstrap settings to make it not transparent on hover */
+}
 .navbar-default .navbar-nav > li > a {
   color: #ffffff;
+  background-color: #711b1ee0; /* close to ECL red, change active to lighter #7e2f32; */
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
@@ -357,13 +361,13 @@ img {
 .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
 .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
   color: #ffbbbc;
-  background-color: rgba(113,25,28,.9);
+  background-color: #96172e; /* Lighter ECL header red to color open menu */
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #ffbbbc;
-  background-color: rgba(113,25,28,.9);
+  background-color: #96172e; /* Lighter ECL header red to color current menu */
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
@@ -404,7 +408,7 @@ img {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #ffbbbc;
-    Background-color: rgba(113,25,28,.9);
+    Background-color: #96172e; /* Lighter ECL header red to color open menu */
   }
 }
 
