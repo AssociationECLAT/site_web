@@ -1,0 +1,14 @@
+# RC file for lftp
+echo .lftp/rc is being sourced to ignore cert fingerprint
+set ftp:ssl-allow true
+set ftp:ssl-force true
+
+# The following line is necessary to ignore the certificate
+# This is necessary because ECL misconfigured their server to send the cert chain out of
+# order, which prevents cert verification
+# It might be necessary to change this once in a while (every year?).
+
+# This is secure, as long as the cert was manually checked once before allowing it, and
+# will still prevent MITM attacks.
+
+set ssl:verify-certificate/E2:9F:44:CC:12:CA:D7:B7:AE:37:61:18:76:8E:34:A2:B5:97:10:C4 no
