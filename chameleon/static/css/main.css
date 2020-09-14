@@ -15,6 +15,10 @@ div#page-content > p {
 	margin-bottom: 50px;
 }
 
+a {
+	color: #996f0e; /* picked by decreasing Eclat Orange lightness on https://www.hsluv.org/ to get better contrast". */
+}
+
 a#lg {
 	color: white;
 }
@@ -39,6 +43,10 @@ h1 {
 	color: white;
 }
 
+.sidebar h1 {
+	color: black;
+}
+
 div .sidebar {
 	/*background-color: rgba(255,255,255,.3);; */
 	margin-left: 1em;
@@ -54,8 +62,13 @@ div .Flux_RSS {
 }
 
 
-div .col-md-8 {
-	/*background-color: rgba(255,255,255,.3); */
+.label-primary {
+	background-color: #d89e19; /* Override bootstrap config with Eclat Orange */
+}
+
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+	background-color: #d89e19; /* Same */
+	border-color: #d89e19;
 }
 
 div .panel-group {
@@ -81,6 +94,7 @@ div .page-header > h1{
 	font-family: Arial, sans-serif;	
 	color: #ffffff;
 	line-height: 100px;
+	text-shadow: 2px 2px 8px #000; /* Shadow to increase contrast */
 }
 
 /* Wrapper for page content to push down footer */
@@ -263,7 +277,8 @@ h4 {font-size: 1.2em;}
 h5 {font-size: 1.1em;}
 h6 {font-size: 1.0em;}
 
-#home_article_list h1 {font-size: 1.6em}
+#home_article_list h1 {font-size: 1.6em;
+text-shadow: 2px 2px 8px #000; /* Shadow to increase contrast */}
 #home_article_list h2 {font-size: 1.4em}
 #home_article_list h3 {font-size: 1.2em}
 #home_article_list h4 {font-size: 1.1em}
