@@ -2,7 +2,9 @@
 
 Le site est en ligne à l'adresse https://eclat.ec-lyon.fr
 
-## Contribuer du contenu En règle générale, s'inspirer [d'un article
+## Contribuer du contenu
+
+En règle générale, s'inspirer [d'un article
 existant](content/events/2019/2019-10-11-coffee_FR.md) et créer un fichier
 Markdown.
 
