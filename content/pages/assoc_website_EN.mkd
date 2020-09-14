@@ -1,0 +1,28 @@
+Title: The website
+Slug: assoc5
+title_page: The website
+lang: en 
+
+__How is the website built?__
+
+The website is generated with [Pelican](http://docs.getpelican.com/en/stable/).
+To help alleviate your pain while reading the rest, technical terms will be
+concentrated in the following sentence: Pelican is a static website generator
+written in [Python](https://fr.wikipedia.org/wiki/Python_(langage)), that uses
+[Jinja](https://www.fullstackpython.com/jinja2.html) templates to build a
+static website from restructured
+[Markdown](https://fr.wikipedia.org/wiki/Markdown) text files.
+
+__How to contribute?__
+
+Any contribution can be done by simply sending us the text you would liketo see
+on the website. As such, don't hesitate to send us your pieces if you have some
+ideas or in a burst of motivation.
+
+
+__What about the real code?__
+
+The most curious among you will be interested to have a look at the complete
+website on [the association's GitHub
+repository](https://github.com/AssociationECLAT/site_web). Don't hesitate to
+suggest improvements there as well.
