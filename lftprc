@@ -12,3 +12,4 @@ set ftp:ssl-force true
 # will still prevent MITM attacks.
 
 set ssl:verify-certificate/E2:9F:44:CC:12:CA:D7:B7:AE:37:61:18:76:8E:34:A2:B5:97:10:C4 no
+set ssl:verify-certificate/E7:51:29:72:FF:A4:33:03:CD:CD:A4:49:EB:A8:01:56:C8:9F:73:6C no

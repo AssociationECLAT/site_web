@@ -1,5 +1,5 @@
 Title: Looking for a new team
-Date: 2019-04-09 13:00
+Date: 2021-12-16 13:00
 Tags: recruitment,announcement
 Slug: 2021-recruitment
 Authors: Mayeul
